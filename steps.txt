@@ -1,0 +1,20 @@
+-- We Will Work On 5 Aspects
+1 - Header
+2 - Slider
+3 - Previous
+4 - Next
+5 - Bullets
+
+-- Steps
+1 - Set The Current Slide Which Will Control All Slider Process
+2 - Set The Images Controler Function
+3 - Set The Bullets Controler Function
+4 - Set The Header Controler Function
+
+
+==> Ideas
+- Trig Function Controls Bullets
+- Trig Function Controls Images
+- Trig Function Controls Header
+- Trig Function Controls Previous And Next Buttons
+- Create TheChecker Function Which Will Check All Elements Status
